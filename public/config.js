@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "nigga the dog",
   "VITE_SEO_SITE_DESCRIPTION": "nigga dog perps",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/niggadog-4769/",
+  "VITE_SEO_SITE_URL": "https://niggadog.tech",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
